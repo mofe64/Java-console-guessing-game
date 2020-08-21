@@ -1,0 +1,11 @@
+Nubari\NumberGenerator.class
+Nubari\Config\AppConfig.class
+Nubari\GameImpl.class
+Nubari\MaxNumber.class
+Nubari\GuessCount.class
+Nubari\NumberGeneratorImpl.class
+Nubari\MessageGenerator.class
+Nubari\Config\GameConfig.class
+Nubari\Game.class
+Nubari\MessageGeneratorImpl.class
+Nubari\Config\MinNumber.class
